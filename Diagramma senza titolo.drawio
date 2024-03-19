@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T15:49:26.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KHacUswdlz73hgGH-8O9" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-19T16:24:50.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uM_3NxsX8zBGEvBblUeT" version="24.0.1" type="github" pages="2">
   <diagram name="Pagina-1" id="2YTZIJVzNYT9GM7ww6zc">
     <mxGraphModel dx="794" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,61 +57,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-5" value="Document Identification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-5" value="Document Identification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-6" value="Document Transcription" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-6" value="Document Transcription" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-7" value="DocumentTranscription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-7" value="DocumentTranscription" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="40" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-8" value="&amp;nbsp;Transcription Loading" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-8" value="&amp;nbsp;Transcription Loading" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-9" value="Metadata&lt;div&gt;Production&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-9" value="Metadata&lt;div&gt;Production&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-10" value="Transcription&lt;div&gt;Annotation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-10" value="Transcription&lt;div&gt;Annotation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-11" value="HTMLTranscription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-11" value="HTMLTranscription" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="370" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-12" value="HTML&amp;nbsp;&lt;div&gt;Cleaning&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-12" value="HTML&amp;nbsp;&lt;div&gt;Cleaning&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-13" value="HTMLTranscriptionCleaned" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-13" value="HTMLTranscriptionCleaned" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="490" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-14" value="Repository&lt;div&gt;Data Structure&lt;/div&gt;&lt;div&gt;Production&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-14" value="Repository&lt;div&gt;Data Structure&lt;/div&gt;&lt;div&gt;Production&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-15" value="RepositoryStructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-15" value="RepositoryStructure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="620" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-16" value="XML Transformation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-16" value="XML Transformation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-17" value="PDF Production" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-17" value="PDF Production" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-18" value="XMLTranscription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-18" value="XMLTranscription" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="720" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-19" value="PDFProduction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-19" value="PDFProduction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="820" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-20" value="Metadata&amp;nbsp;&lt;div&gt;Alignment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-20" value="Metadata&amp;nbsp;&lt;div&gt;Alignment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-21" value="Dataset.ttl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-21" value="Dataset.ttl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="1020" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-22" value="Metadata&lt;div&gt;generation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-22" value="Metadata&lt;div&gt;generation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsFaWEYkMAPyd6KOFxsR-23" value="Data.ttl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-23" value="Data.ttl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="930" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zsFaWEYkMAPyd6KOFxsR-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zsFaWEYkMAPyd6KOFxsR-6" target="zsFaWEYkMAPyd6KOFxsR-7">
@@ -221,6 +221,18 @@
             <mxPoint x="319.5" y="990" as="sourcePoint" />
             <mxPoint x="320" y="1030" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-42" value="DocumentMetadata" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zsFaWEYkMAPyd6KOFxsR-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="279.5" as="sourcePoint" />
+            <mxPoint x="480" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zsFaWEYkMAPyd6KOFxsR-44" value="Metadata&lt;div&gt;Persistance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="750" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
