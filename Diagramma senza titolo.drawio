@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T14:57:15.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ozz3HeKkFA23Jz9ssyVF" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T14:58:39.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ajtcj37Tn5k0oGWnkhb8" version="24.0.1" type="github">
   <diagram name="Pagina-1" id="2YTZIJVzNYT9GM7ww6zc">
     <mxGraphModel dx="794" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,8 +18,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRjigV2kszb3W_EXp4IW-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;normalize_location()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="200" width="130" height="60" as="geometry" />
+        <mxCell id="aRjigV2kszb3W_EXp4IW-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;normalize_location(location)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="200" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aRjigV2kszb3W_EXp4IW-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aRjigV2kszb3W_EXp4IW-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,8 +32,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aRjigV2kszb3W_EXp4IW-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;get_coordinates()&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="360" width="130" height="60" as="geometry" />
+        <mxCell id="aRjigV2kszb3W_EXp4IW-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;get_coordinates(cleaned_location)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="360" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aRjigV2kszb3W_EXp4IW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
