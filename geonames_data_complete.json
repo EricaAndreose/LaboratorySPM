@@ -1,0 +1,4384 @@
+{
+    "roma": [
+        "12.51133",
+        "41.89193",
+        "P",
+        "IT",
+        "Rome"
+    ],
+    "firenze": [
+        "11.24626",
+        "43.77925",
+        "P",
+        "IT",
+        "Florence"
+    ],
+    "bari": [
+        "16.86982",
+        "41.12066",
+        "P",
+        "IT",
+        "Bari"
+    ],
+    "palermo": [
+        "13.3636",
+        "38.1166",
+        "P",
+        "IT",
+        "Palermo"
+    ],
+    "trapani": [
+        "12.53617",
+        "38.0176",
+        "P",
+        "IT",
+        "Trapani"
+    ],
+    "grottaferrata": [
+        "12.67144",
+        "41.78664",
+        "P",
+        "IT",
+        "Grottaferrata"
+    ],
+    "trieste": [
+        "13.77678",
+        "45.64953",
+        "P",
+        "IT",
+        "Trieste"
+    ],
+    "varese": [
+        "8.82511",
+        "45.82058",
+        "P",
+        "IT",
+        "Varese"
+    ],
+    "milano": [
+        "9.18951",
+        "45.46427",
+        "P",
+        "IT",
+        "Milan"
+    ],
+    "lecce": [
+        "18.17244",
+        "40.35481",
+        "P",
+        "IT",
+        "Lecce"
+    ],
+    "trani": [
+        "16.41011",
+        "41.27733",
+        "P",
+        "IT",
+        "Trani"
+    ],
+    "foggia": [
+        "15.55188",
+        "41.45845",
+        "P",
+        "IT",
+        "Foggia"
+    ],
+    "bologna": [
+        "11.33875",
+        "44.49381",
+        "P",
+        "IT",
+        "Bologna"
+    ],
+    "messina": [
+        "15.55256",
+        "38.19394",
+        "P",
+        "IT",
+        "Messina"
+    ],
+    "latina": [
+        "12.9043",
+        "41.46614",
+        "P",
+        "IT",
+        "Latina"
+    ],
+    "avellino": [
+        "14.79103",
+        "40.91494",
+        "P",
+        "IT",
+        "Avellino"
+    ],
+    "taranto": [
+        "17.24707",
+        "40.46438",
+        "P",
+        "IT",
+        "Taranto"
+    ],
+    "venezia": [
+        "12.33265",
+        "45.43713",
+        "P",
+        "IT",
+        "Venice"
+    ],
+    "cagliari": [
+        "9.11917",
+        "39.23054",
+        "P",
+        "IT",
+        "Cagliari"
+    ],
+    "san pellegrino terme": [
+        "9.66753",
+        "45.83443",
+        "P",
+        "IT",
+        "San Pellegrino Terme"
+    ],
+    "napoli": [
+        "14.26811",
+        "40.85216",
+        "P",
+        "IT",
+        "Naples"
+    ],
+    "pisa": [
+        "10.4036",
+        "43.70853",
+        "P",
+        "IT",
+        "Pisa"
+    ],
+    "perugia": [
+        "12.38878",
+        "43.1122",
+        "P",
+        "IT",
+        "Perugia"
+    ],
+    "cittadella": [
+        "11.78453",
+        "45.64523",
+        "P",
+        "IT",
+        "Cittadella"
+    ],
+    "padova": [
+        "11.88586",
+        "45.40797",
+        "P",
+        "IT",
+        "Padova"
+    ],
+    "bergamo": [
+        "9.66721",
+        "45.69601",
+        "P",
+        "IT",
+        "Bergamo"
+    ],
+    "salerno": [
+        "14.79328",
+        "40.67545",
+        "P",
+        "IT",
+        "Salerno"
+    ],
+    "paola": [
+        "14.50611",
+        "35.87361",
+        "A",
+        "MT",
+        "Paola"
+    ],
+    "ancona": [
+        "13.50337",
+        "43.5942",
+        "P",
+        "IT",
+        "Ancona"
+    ],
+    "l'aquila": [
+        "13.39954",
+        "42.35055",
+        "P",
+        "IT",
+        "L'Aquila"
+    ],
+    "pordenone": [
+        "12.66051",
+        "45.95689",
+        "P",
+        "IT",
+        "Pordenone"
+    ],
+    "mestre": [
+        "12.24538",
+        "45.49167",
+        "P",
+        "IT",
+        "Mestre"
+    ],
+    "gorizia, trieste": [
+        "11.63633",
+        "45.59167",
+        "P",
+        "IT",
+        "Gorizia-Trieste"
+    ],
+    "udine": [
+        "13.23715",
+        "46.0693",
+        "P",
+        "IT",
+        "Udine"
+    ],
+    "italia": [
+        "12.83333",
+        "42.83333",
+        "A",
+        "IT",
+        "Italian Republic"
+    ],
+    "siracusa": [
+        "15.28664",
+        "37.07542",
+        "P",
+        "IT",
+        "Siracusa"
+    ],
+    "caltanissetta": [
+        "14.06216",
+        "37.49025",
+        "P",
+        "IT",
+        "Caltanissetta"
+    ],
+    "sassari": [
+        "8.55552",
+        "40.72586",
+        "P",
+        "IT",
+        "Sassari"
+    ],
+    "bruxelles": [
+        "4.34878",
+        "50.85045",
+        "P",
+        "BE",
+        "Brussels"
+    ],
+    "new york": [
+        "-74.00597",
+        "40.71427",
+        "P",
+        "US",
+        "New York City"
+    ],
+    "washington": [
+        "-77.03637",
+        "38.89511",
+        "P",
+        "US",
+        "Washington"
+    ],
+    "ottawa": [
+        "-75.69812",
+        "45.41117",
+        "P",
+        "CA",
+        "Ottawa"
+    ],
+    "lussemburgo": [
+        "6.16667",
+        "49.75",
+        "A",
+        "LU",
+        "Grand Duchy of Luxembourg"
+    ],
+    "parigi": [
+        "2.3488",
+        "48.85341",
+        "P",
+        "FR",
+        "Paris"
+    ],
+    "rabat": [
+        "-6.83255",
+        "34.01325",
+        "P",
+        "MA",
+        "Rabat"
+    ],
+    "andria": [
+        "16.29797",
+        "41.23117",
+        "P",
+        "IT",
+        "Andria"
+    ],
+    "strasburgo": [
+        "7.74553",
+        "48.58392",
+        "P",
+        "FR",
+        "Strasbourg"
+    ],
+    "sofia": [
+        "23.32415",
+        "42.69751",
+        "P",
+        "BG",
+        "Sofia"
+    ],
+    "ankara": [
+        "32.85427",
+        "39.91987",
+        "P",
+        "TR",
+        "Ankara"
+    ],
+    "il cairo": [
+        "31.24967",
+        "30.06263",
+        "P",
+        "EG",
+        "Cairo"
+    ],
+    "brescia": [
+        "10.21472",
+        "45.53558",
+        "P",
+        "IT",
+        "Brescia"
+    ],
+    "mogadiscio": [
+        "45.34375",
+        "2.03711",
+        "P",
+        "SO",
+        "Mogadishu"
+    ],
+    "addis abeba": [
+        "38.74689",
+        "9.02497",
+        "P",
+        "ET",
+        "Addis Ababa"
+    ],
+    "tunisi": [
+        "9",
+        "34",
+        "A",
+        "TN",
+        "Republic of Tunisia"
+    ],
+    "teheran": [
+        "51.42151",
+        "35.69439",
+        "P",
+        "IR",
+        "Tehran"
+    ],
+    "citt\u00e0 del messico": [
+        "-99.12766",
+        "19.42847",
+        "P",
+        "MX",
+        "Mexico City"
+    ],
+    "tokyo": [
+        "139.69171",
+        "35.6895",
+        "P",
+        "JP",
+        "Tokyo"
+    ],
+    "giacarta": [
+        "106.84513",
+        "-6.21462",
+        "P",
+        "ID",
+        "Jakarta"
+    ],
+    "jakarta": [
+        "106.84513",
+        "-6.21462",
+        "P",
+        "ID",
+        "Jakarta"
+    ],
+    "londra": [
+        "-0.12574",
+        "51.50853",
+        "P",
+        "GB",
+        "London"
+    ],
+    "gerusalemme": [
+        "35.21633",
+        "31.76904",
+        "P",
+        "IL",
+        "Jerusalem"
+    ],
+    "copenaghen": [
+        "12.56553",
+        "55.67594",
+        "P",
+        "DK",
+        "Copenhagen"
+    ],
+    "dakar": [
+        "-17.44406",
+        "14.6937",
+        "P",
+        "SN",
+        "Dakar"
+    ],
+    "abidjan": [
+        "-4.00167",
+        "5.35444",
+        "P",
+        "CI",
+        "Abidjan"
+    ],
+    "accra": [
+        "-0.1969",
+        "5.55602",
+        "P",
+        "GH",
+        "Accra"
+    ],
+    "kinshasa": [
+        "15.31357",
+        "-4.32758",
+        "P",
+        "CD",
+        "Kinshasa"
+    ],
+    "tripoli": [
+        "35.84415",
+        "34.43352",
+        "P",
+        "LB",
+        "Tripoli"
+    ],
+    "stoccolma": [
+        "18.06871",
+        "59.32938",
+        "P",
+        "SE",
+        "Stockholm"
+    ],
+    "helsinki": [
+        "24.93545",
+        "60.16952",
+        "P",
+        "FI",
+        "Helsinki"
+    ],
+    "lisbona": [
+        "-9.13333",
+        "38.71667",
+        "P",
+        "PT",
+        "Lisbon"
+    ],
+    "dublino": [
+        "-6.24889",
+        "53.33306",
+        "P",
+        "IE",
+        "Dublin"
+    ],
+    "algeri": [
+        "3.08746",
+        "36.73225",
+        "P",
+        "DZ",
+        "Algiers"
+    ],
+    "mosca": [
+        "37.61556",
+        "55.75222",
+        "P",
+        "RU",
+        "Moscow"
+    ],
+    "oslo": [
+        "10.74609",
+        "59.91273",
+        "P",
+        "NO",
+        "Oslo"
+    ],
+    "bracciano (roma)": [
+        "12.16565",
+        "42.10271",
+        "P",
+        "IT",
+        "Bracciano"
+    ],
+    "damasco": [
+        "36.29128",
+        "33.5102",
+        "P",
+        "SY",
+        "Damascus"
+    ],
+    "beirut": [
+        "35.50157",
+        "33.89332",
+        "P",
+        "LB",
+        "Beirut"
+    ],
+    "castellammare del golfo": [
+        "12.88183",
+        "38.02653",
+        "P",
+        "IT",
+        "Castellammare del Golfo"
+    ],
+    "bonn": [
+        "7.09549",
+        "50.73438",
+        "P",
+        "DE",
+        "Bonn"
+    ],
+    "gorizia": [
+        "13.62167",
+        "45.94088",
+        "P",
+        "IT",
+        "Gorizia"
+    ],
+    "bracciano": [
+        "12.16565",
+        "42.10271",
+        "P",
+        "IT",
+        "Bracciano"
+    ],
+    "san giovanni in fiore": [
+        "16.69699",
+        "39.25446",
+        "P",
+        "IT",
+        "San Giovanni in Fiore"
+    ],
+    "lecco": [
+        "9.39704",
+        "45.85589",
+        "P",
+        "IT",
+        "Lecco"
+    ],
+    "ozieri": [
+        "9.0034",
+        "40.5863",
+        "P",
+        "IT",
+        "Ozieri"
+    ],
+    "cassino": [
+        "13.82835",
+        "41.48581",
+        "P",
+        "IT",
+        "Cassino"
+    ],
+    "provincia di bari": [
+        "9.64606",
+        "39.84135",
+        "P",
+        "IT",
+        "Bari Sardo"
+    ],
+    "la valletta": [
+        "14.5148",
+        "35.89968",
+        "P",
+        "MT",
+        "Valletta"
+    ],
+    "veneto e friuli - venezia giulia": [
+        "12.73811",
+        "45.92865",
+        "P",
+        "IT",
+        "Fiume Veneto"
+    ],
+    "caserta": [
+        "14.33231",
+        "41.07262",
+        "P",
+        "IT",
+        "Caserta"
+    ],
+    "ravenna": [
+        "12.20121",
+        "44.41344",
+        "P",
+        "IT",
+        "Ravenna"
+    ],
+    "kuwait": [
+        "47.75",
+        "29.5",
+        "A",
+        "KW",
+        "State of Kuwait"
+    ],
+    "riyad": [
+        "46.72185",
+        "24.68773",
+        "P",
+        "SA",
+        "Riyadh"
+    ],
+    "selva di fasano": [
+        "17.32201",
+        "40.8279",
+        "P",
+        "IT",
+        "Selva di Fasano"
+    ],
+    "budapest": [
+        "19.04045",
+        "47.49835",
+        "P",
+        "HU",
+        "Budapest"
+    ],
+    "alghero": [
+        "8.31953",
+        "40.55969",
+        "P",
+        "IT",
+        "Alghero"
+    ],
+    "malta": [
+        "14.43333",
+        "35.91667",
+        "A",
+        "MT",
+        "Republic of Malta"
+    ],
+    "varsavia": [
+        "21.01178",
+        "52.22977",
+        "P",
+        "PL",
+        "Warsaw"
+    ],
+    "porto cervo": [
+        "9.53267",
+        "41.14063",
+        "P",
+        "IT",
+        "Porto Cervo"
+    ],
+    "borca di cadore": [
+        "12.2223",
+        "46.43452",
+        "P",
+        "IT",
+        "Borca"
+    ],
+    "torino": [
+        "7.68682",
+        "45.07049",
+        "P",
+        "IT",
+        "Turin"
+    ],
+    "galatina": [
+        "18.17032",
+        "40.17416",
+        "P",
+        "IT",
+        "Galatina"
+    ],
+    "brindisi": [
+        "17.93607",
+        "40.63215",
+        "P",
+        "IT",
+        "Brindisi"
+    ],
+    "grumo": [
+        "14.25983",
+        "40.93591",
+        "P",
+        "IT",
+        "Grumo Nevano"
+    ],
+    "rambouillet": [
+        "1.82992",
+        "48.64374",
+        "P",
+        "FR",
+        "Rambouillet"
+    ],
+    "livorno": [
+        "10.32615",
+        "43.54427",
+        "P",
+        "IT",
+        "Livorno"
+    ],
+    "pozzuoli": [
+        "14.0952",
+        "40.84394",
+        "P",
+        "IT",
+        "Pozzuoli"
+    ],
+    "rieti": [
+        "12.85735",
+        "42.40476",
+        "P",
+        "IT",
+        "Rieti"
+    ],
+    "trento": [
+        "11.12108",
+        "46.06787",
+        "P",
+        "IT",
+        "Trento"
+    ],
+    "potenza": [
+        "15.80794",
+        "40.64175",
+        "P",
+        "IT",
+        "Potenza"
+    ],
+    "portorico": [
+        "-66.49989",
+        "18.24829",
+        "A",
+        "PR",
+        "Puerto Rico"
+    ],
+    "molfetta": [
+        "16.59905",
+        "41.20036",
+        "P",
+        "IT",
+        "Molfetta"
+    ],
+    "madrid": [
+        "-3.70256",
+        "40.4165",
+        "P",
+        "ES",
+        "Madrid"
+    ],
+    "mantova": [
+        "10.79784",
+        "45.16031",
+        "P",
+        "IT",
+        "Mantova"
+    ],
+    "atri": [
+        "13.98899",
+        "42.57642",
+        "P",
+        "IT",
+        "Atri"
+    ],
+    "benevento": [
+        "14.77816",
+        "41.1307",
+        "P",
+        "IT",
+        "Benevento"
+    ],
+    "genova": [
+        "8.94439",
+        "44.40478",
+        "P",
+        "IT",
+        "Genoa"
+    ],
+    "catania": [
+        "15.07041",
+        "37.49223",
+        "P",
+        "IT",
+        "Catania"
+    ],
+    "irlanda": [
+        "-8",
+        "53",
+        "A",
+        "IE",
+        "Ireland"
+    ],
+    "arco": [
+        "-50.42979",
+        "-21.74342",
+        "A",
+        "BR",
+        "Arco-\u00cdris"
+    ],
+    "mezzogiorno": [
+        "15.20913",
+        "41.08792",
+        "L",
+        "IT",
+        "Mezzogiorno"
+    ],
+    "null": [
+        "7.54015",
+        "44.93645",
+        "P",
+        "IT",
+        "None"
+    ],
+    "grecia": [
+        "22",
+        "39",
+        "A",
+        "GR",
+        "Hellenic Republic"
+    ],
+    "germania": [
+        "10.5",
+        "51.5",
+        "A",
+        "DE",
+        "Federal Republic of Germany"
+    ],
+    "paese": [
+        "12.16389",
+        "45.67417",
+        "P",
+        "IT",
+        "Paese"
+    ],
+    "siena": [
+        "11.33064",
+        "43.31822",
+        "P",
+        "IT",
+        "Siena"
+    ],
+    "marche": [
+        "13.72068",
+        "43.30491",
+        "P",
+        "IT",
+        "Civitanova Marche"
+    ],
+    "romagne": [
+        "12.25",
+        "44.5",
+        "L",
+        "IT",
+        "Romagna"
+    ],
+    "emilia": [
+        "12.25",
+        "44.5",
+        "L",
+        "IT",
+        "Romagna"
+    ],
+    "lombardia": [
+        "9.5",
+        "45.66667",
+        "A",
+        "IT",
+        "Lombardia"
+    ],
+    "veneto": [
+        "11.75",
+        "45.5",
+        "A",
+        "IT",
+        "Veneto"
+    ],
+    "toscana": [
+        "11",
+        "43.41667",
+        "A",
+        "IT",
+        "Toscana"
+    ],
+    "sardegna": [
+        "9",
+        "40",
+        "A",
+        "IT",
+        "Sardegna"
+    ],
+    "sicilia": [
+        "14.25",
+        "37.75",
+        "A",
+        "IT",
+        "Sicilia"
+    ],
+    "europa": [
+        "9.14062",
+        "48.69096",
+        "L",
+        "None",
+        "Europe"
+    ],
+    "piave": [
+        "12.5681",
+        "45.63019",
+        "P",
+        "IT",
+        "San Don\u00e0 di Piave"
+    ],
+    "vittorio veneto": [
+        "12.30065",
+        "45.98026",
+        "P",
+        "IT",
+        "Vittorio Veneto"
+    ],
+    "piemonte": [
+        "7.68682",
+        "45.07049",
+        "P",
+        "IT",
+        "Turin"
+    ],
+    "liguria": [
+        "8.94439",
+        "44.40478",
+        "P",
+        "IT",
+        "Genoa"
+    ],
+    "betlemme": [
+        "35.20376",
+        "31.70487",
+        "P",
+        "PS",
+        "Bethlehem"
+    ],
+    "atlantico": [
+        "-75",
+        "10.75",
+        "A",
+        "CO",
+        "Departamento del Atl\u00e1ntico"
+    ],
+    "montevideo": [
+        "-56.18816",
+        "-34.90328",
+        "P",
+        "UY",
+        "Montevideo"
+    ],
+    "america": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "inghilterra": [
+        "-0.12574",
+        "51.50853",
+        "P",
+        "GB",
+        "London"
+    ],
+    "russia": [
+        "100",
+        "60",
+        "A",
+        "RU",
+        "Russian Federation"
+    ],
+    "austria": [
+        "13.33333",
+        "47.33333",
+        "A",
+        "AT",
+        "Republic of Austria"
+    ],
+    "alto adige": [
+        "11.33333",
+        "46.5",
+        "A",
+        "IT",
+        "Trentino-Alto Adige"
+    ],
+    "isonzo": [
+        "13.57936",
+        "45.90894",
+        "P",
+        "IT",
+        "Savogna d'Isonzo"
+    ],
+    "giappone": [
+        "139.75309",
+        "35.68536",
+        "A",
+        "JP",
+        "Japan"
+    ],
+    "capitale": [
+        "4.34878",
+        "50.85045",
+        "P",
+        "BE",
+        "Brussels"
+    ],
+    "nord": [
+        "11.54639",
+        "45.41224",
+        "L",
+        "IT",
+        "Nord-Est"
+    ],
+    "tunisia": [
+        "9",
+        "34",
+        "A",
+        "TN",
+        "Republic of Tunisia"
+    ],
+    "francia": [
+        "2",
+        "46",
+        "A",
+        "FR",
+        "Republic of France"
+    ],
+    "meridionale": [
+        "78.66211",
+        "21.28937",
+        "L",
+        "None",
+        "Southern Asia"
+    ],
+    "camaldoli": [
+        "11.82031",
+        "43.79359",
+        "P",
+        "IT",
+        "Camaldoli"
+    ],
+    "valle d\u2019aosta": [
+        "7.25",
+        "45.75",
+        "A",
+        "IT",
+        "Regione Autonoma Valle d'Aosta"
+    ],
+    "val d\u2019aosta": [
+        "7.25",
+        "45.75",
+        "A",
+        "IT",
+        "Regione Autonoma Valle d'Aosta"
+    ],
+    "valle": [
+        "-76.5225",
+        "3.43722",
+        "P",
+        "CO",
+        "Cali"
+    ],
+    "caltagirone": [
+        "14.51551",
+        "37.23785",
+        "P",
+        "IT",
+        "Caltagirone"
+    ],
+    "lazio": [
+        "12.51133",
+        "41.89193",
+        "P",
+        "IT",
+        "Rome"
+    ],
+    "verona": [
+        "10.9938",
+        "45.43854",
+        "P",
+        "IT",
+        "Verona"
+    ],
+    "caporetto": [
+        "13.57907",
+        "46.24761",
+        "P",
+        "SI",
+        "Kobarid"
+    ],
+    "messico": [
+        "-102",
+        "23",
+        "A",
+        "MX",
+        "Mexico"
+    ],
+    "ungheria": [
+        "20",
+        "47",
+        "A",
+        "HU",
+        "Hungary"
+    ],
+    "urss": [
+        "98",
+        "60",
+        "A",
+        "None",
+        "Union of Soviet Socialist Republics"
+    ],
+    "suez": [
+        "32.52627",
+        "29.97371",
+        "P",
+        "EG",
+        "Suez"
+    ],
+    "stati uniti": [
+        "-98.5",
+        "39.76",
+        "A",
+        "US",
+        "United States"
+    ],
+    "bagdad": [
+        "44.40088",
+        "33.34058",
+        "P",
+        "IQ",
+        "Baghdad"
+    ],
+    "libano": [
+        "35.83333",
+        "33.83333",
+        "A",
+        "LB",
+        "Lebanon"
+    ],
+    "formosa": [
+        "121",
+        "24",
+        "A",
+        "TW",
+        "Taiwan"
+    ],
+    "berlino": [
+        "13.41053",
+        "52.52437",
+        "P",
+        "DE",
+        "Berlin"
+    ],
+    "ginevra": [
+        "6.14569",
+        "46.20222",
+        "P",
+        "CH",
+        "Gen\u00e8ve"
+    ],
+    "alpi": [
+        "7.26608",
+        "43.70313",
+        "P",
+        "FR",
+        "Nice"
+    ],
+    "ponza": [
+        "12.95889",
+        "40.89541",
+        "P",
+        "IT",
+        "Ponza"
+    ],
+    "alto-adige": [
+        "11.33333",
+        "46.5",
+        "A",
+        "IT",
+        "Trentino-Alto Adige"
+    ],
+    "novara": [
+        "8.62118",
+        "45.44694",
+        "P",
+        "IT",
+        "Novara"
+    ],
+    "trentino-alto adige": [
+        "11.33333",
+        "46.5",
+        "A",
+        "IT",
+        "Trentino-Alto Adige"
+    ],
+    "melfi": [
+        "15.65578",
+        "40.99571",
+        "P",
+        "IT",
+        "Melfi"
+    ],
+    "predappio": [
+        "11.98333",
+        "44.1",
+        "A",
+        "IT",
+        "Predappio"
+    ],
+    "rovigo": [
+        "11.79022",
+        "45.06982",
+        "P",
+        "IT",
+        "Rovigo"
+    ],
+    "san pellegrino": [
+        "9.66753",
+        "45.83443",
+        "P",
+        "IT",
+        "San Pellegrino Terme"
+    ],
+    "camp david": [
+        "-9.76509",
+        "6.0841",
+        "P",
+        "LR",
+        "David Gboh Camp"
+    ],
+    "corea": [
+        "127.75",
+        "36.5",
+        "A",
+        "KR",
+        "Republic of Korea"
+    ],
+    "gran bretagna": [
+        "-1.73265",
+        "47.72387",
+        "P",
+        "FR",
+        "Grand-Fougeray"
+    ],
+    "america latina": [
+        "-74.24633",
+        "4.57622",
+        "P",
+        "CO",
+        "Ciudad Latina"
+    ],
+    "mediterraneo": [
+        "-5.30895",
+        "35.88991",
+        "L",
+        "ES",
+        "Parque Mar\u00edtimo del Mediterr\u00e1neo"
+    ],
+    "africa": [
+        "21.09375",
+        "7.1881",
+        "L",
+        "None",
+        "Africa"
+    ],
+    "kindu": [
+        "25.92237",
+        "-2.94373",
+        "P",
+        "CD",
+        "Kindu"
+    ],
+    "tirolo": [
+        "11.5",
+        "47",
+        "L",
+        "AT",
+        "Tyrol"
+    ],
+    "s. pellegrino": [
+        "11.31073",
+        "44.48052",
+        "L",
+        "IT",
+        "Parco S Pellegrino Villa Puglioli"
+    ],
+    "ceccano": [
+        "13.32901",
+        "41.57236",
+        "P",
+        "IT",
+        "Ceccano"
+    ],
+    "friuli-venezia giulia": [
+        "13",
+        "46",
+        "A",
+        "IT",
+        "Friuli Venezia Giulia"
+    ],
+    "friuli e venezia giulia": [
+        "13.62167",
+        "45.94088",
+        "P",
+        "IT",
+        "Gorizia"
+    ],
+    "europa occidentale": [
+        "7.42676",
+        "50.21909",
+        "L",
+        "None",
+        "Western Europe"
+    ],
+    "regno unito": [
+        "-2.69531",
+        "54.75844",
+        "A",
+        "GB",
+        "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "germania occidentale": [
+        "11.41316",
+        "53.62937",
+        "P",
+        "DE",
+        "Schwerin"
+    ],
+    "venezuela": [
+        "-66",
+        "8",
+        "A",
+        "VE",
+        "Bolivarian Republic of Venezuela"
+    ],
+    "cuba": [
+        "-79.5",
+        "22",
+        "A",
+        "CU",
+        "Republic of Cuba"
+    ],
+    "friuli venezia giulia": [
+        "13",
+        "46",
+        "A",
+        "IT",
+        "Friuli Venezia Giulia"
+    ],
+    "chieti": [
+        "14.16494",
+        "42.34827",
+        "P",
+        "IT",
+        "Chieti"
+    ],
+    "barletta": [
+        "16.28165",
+        "41.31429",
+        "P",
+        "IT",
+        "Barletta"
+    ],
+    "puglia": [
+        "16.06768",
+        "41.21954",
+        "P",
+        "IT",
+        "Canosa di Puglia"
+    ],
+    "umbria": [
+        "12.5",
+        "43",
+        "A",
+        "IT",
+        "Umbria"
+    ],
+    "viet nam": [
+        "107.83333",
+        "16.16667",
+        "A",
+        "VN",
+        "Socialist Republic of Vietnam"
+    ],
+    "cadore": [
+        "12.36416",
+        "46.42466",
+        "P",
+        "IT",
+        "Pieve di Cadore"
+    ],
+    "cecoslovacchia": [
+        "14.46672",
+        "50.08292",
+        "A",
+        "CS",
+        "Czechoslovakia"
+    ],
+    "urali": [
+        "75.91316",
+        "35.25127",
+        "P",
+        "PK",
+        "Ural"
+    ],
+    "europa orientale": [
+        "28.38867",
+        "51.72703",
+        "L",
+        "None",
+        "Eastern Europe"
+    ],
+    "medio oriente": [
+        "35.85869",
+        "33.13906",
+        "L",
+        "None",
+        "Middle East"
+    ],
+    "asia": [
+        "89.29688",
+        "29.84064",
+        "L",
+        "None",
+        "Asia"
+    ],
+    "cina": [
+        "105",
+        "35",
+        "A",
+        "CN",
+        "People\u2019s Republic of China"
+    ],
+    "vietnam": [
+        "107.83333",
+        "16.16667",
+        "A",
+        "VN",
+        "Socialist Republic of Vietnam"
+    ],
+    "occidente": [
+        "-79.60588",
+        "8.60633",
+        "P",
+        "PA",
+        "Otoque Occidente"
+    ],
+    "pechino": [
+        "116.39723",
+        "39.9075",
+        "P",
+        "CN",
+        "Beijing"
+    ],
+    "yalta": [
+        "34.16624",
+        "44.50218",
+        "P",
+        "UA",
+        "Yalta"
+    ],
+    "repubblica federale": [
+        "6.84075",
+        "47.10504",
+        "P",
+        "CH",
+        "Croix-F\u00e9d\u00e9rale"
+    ],
+    "germania federale": [
+        "12.89786",
+        "50.88337",
+        "P",
+        "DE",
+        "Draisdorf"
+    ],
+    "reykyavik": [
+        "-21.89541",
+        "64.13548",
+        "P",
+        "IS",
+        "Reykjav\u00edk"
+    ],
+    "reykjavik": [
+        "-21.89541",
+        "64.13548",
+        "P",
+        "IS",
+        "Reykjav\u00edk"
+    ],
+    "atene": [
+        "23.72784",
+        "37.98376",
+        "P",
+        "GR",
+        "Athens"
+    ],
+    "tel aviv": [
+        "34.78057",
+        "32.08088",
+        "P",
+        "IL",
+        "Tel Aviv"
+    ],
+    "baghdad": [
+        "44.40088",
+        "33.34058",
+        "P",
+        "IQ",
+        "Baghdad"
+    ],
+    "cairo": [
+        "31.24967",
+        "30.06263",
+        "P",
+        "EG",
+        "Cairo"
+    ],
+    "giordania": [
+        "36",
+        "31",
+        "A",
+        "JO",
+        "Hashemite Kingdom of Jordan"
+    ],
+    "siria": [
+        "38",
+        "35",
+        "A",
+        "SY",
+        "Syrian Arab Republic"
+    ],
+    "iraq": [
+        "44",
+        "33",
+        "A",
+        "IQ",
+        "Republic of Iraq"
+    ],
+    "giordano": [
+        "-5.46626",
+        "38.17727",
+        "L",
+        "ES",
+        "Observatorio Giordano Bruno"
+    ],
+    "golan": [
+        "35.80725",
+        "32.90485",
+        "L",
+        "IL",
+        "Golan Heights"
+    ],
+    "khartum": [
+        "32.53241",
+        "15.55177",
+        "P",
+        "SD",
+        "Khartoum"
+    ],
+    "israele": [
+        "34.75",
+        "31.5",
+        "A",
+        "IL",
+        "State of Israel"
+    ],
+    "libia": [
+        "17",
+        "28",
+        "A",
+        "LY",
+        "Libya"
+    ],
+    "mongolia": [
+        "105",
+        "46",
+        "A",
+        "MN",
+        "Mongolia"
+    ],
+    "pakistan": [
+        "70",
+        "30",
+        "A",
+        "PK",
+        "Islamic Republic of Pakistan"
+    ],
+    "jugoslavia": [
+        "19.75",
+        "44",
+        "A",
+        "YU",
+        "Federal Republic of Yugoslavia"
+    ],
+    "argentina": [
+        "-64",
+        "-34",
+        "A",
+        "AR",
+        "Argentine Republic"
+    ],
+    "marocco": [
+        "-10",
+        "28.5",
+        "A",
+        "MA",
+        "Kingdom of Morocco"
+    ],
+    "olanda": [
+        "5.75",
+        "52.25",
+        "A",
+        "NL",
+        "Kingdom of the Netherlands"
+    ],
+    "vienna": [
+        "16.37208",
+        "48.20849",
+        "P",
+        "AT",
+        "Vienna"
+    ],
+    "belgrado": [
+        "20.46513",
+        "44.80401",
+        "P",
+        "RS",
+        "Belgrade"
+    ],
+    "repubblica cinese": [
+        "105",
+        "35",
+        "A",
+        "CN",
+        "People\u2019s Republic of China"
+    ],
+    "san ginesio": [
+        "13.32121",
+        "43.10752",
+        "P",
+        "IT",
+        "San Ginesio"
+    ],
+    "repubblica": [
+        "6.14569",
+        "46.20222",
+        "P",
+        "CH",
+        "Gen\u00e8ve"
+    ],
+    "continente": [
+        "21.09375",
+        "7.1881",
+        "L",
+        "None",
+        "Africa"
+    ],
+    "cosmo": [
+        "122.8953",
+        "-27.99618",
+        "P",
+        "AU",
+        "Cosmo Newbery"
+    ],
+    "canada": [
+        "-113.64258",
+        "60.10867",
+        "A",
+        "CA",
+        "Canada"
+    ],
+    "sud-est asiatico": [
+        "116.45508",
+        "6.83917",
+        "L",
+        "None",
+        "South Eastern Asia"
+    ],
+    "nigeria": [
+        "8",
+        "10",
+        "A",
+        "NG",
+        "Federal Republic of Nigeria"
+    ],
+    "rio grande": [
+        "-43.18223",
+        "-22.90642",
+        "P",
+        "BR",
+        "Rio de Janeiro"
+    ],
+    "nuovo mondo": [
+        "12.42936",
+        "43.72828",
+        "P",
+        "IT",
+        "Nuovo Mondo"
+    ],
+    "vi\u00f1a del mar": [
+        "-71.55183",
+        "-33.02457",
+        "P",
+        "CL",
+        "Vi\u00f1a del Mar"
+    ],
+    "adriatico": [
+        "12.69805",
+        "43.97714",
+        "P",
+        "IT",
+        "Misano Adriatico"
+    ],
+    "romania": [
+        "25",
+        "46",
+        "A",
+        "RO",
+        "Rom\u00e2nia"
+    ],
+    "paesi bassi": [
+        "5.75",
+        "52.25",
+        "A",
+        "NL",
+        "Kingdom of the Netherlands"
+    ],
+    "germania orientale": [
+        "10.8145",
+        "54.10707",
+        "P",
+        "DE",
+        "Neustadt in Holstein"
+    ],
+    "hanoi": [
+        "105.84117",
+        "21.0245",
+        "P",
+        "VN",
+        "Hanoi"
+    ],
+    "oriente": [
+        "35.85869",
+        "33.13906",
+        "L",
+        "None",
+        "Middle East"
+    ],
+    "africa settentrionale": [
+        "39.47455",
+        "15.60811",
+        "P",
+        "ER",
+        "Massawa"
+    ],
+    "cile": [
+        "-71",
+        "-30",
+        "A",
+        "CL",
+        "Republic of Chile"
+    ],
+    "santiago": [
+        "-70.64827",
+        "-33.45694",
+        "P",
+        "CL",
+        "Santiago"
+    ],
+    "nord america": [
+        "-100.54688",
+        "46.07323",
+        "L",
+        "None",
+        "North America"
+    ],
+    "germanie": [
+        "6.96038",
+        "50.93872",
+        "A",
+        "DE",
+        "Germania Inferior"
+    ],
+    "bolzano": [
+        "11.33982",
+        "46.49067",
+        "P",
+        "IT",
+        "Bolzano"
+    ],
+    "bucarest": [
+        "26.10626",
+        "44.43225",
+        "P",
+        "RO",
+        "Bucharest"
+    ],
+    "karlovi vary": [
+        "12.87117",
+        "50.23271",
+        "P",
+        "CZ",
+        "Karlovy Vary"
+    ],
+    "praga": [
+        "14.42076",
+        "50.08804",
+        "P",
+        "CZ",
+        "Prague"
+    ],
+    "reykjav\u00edk": [
+        "-21.89541",
+        "64.13548",
+        "P",
+        "IS",
+        "Reykjav\u00edk"
+    ],
+    "ispra": [
+        "8.61294",
+        "45.8148",
+        "P",
+        "IT",
+        "Ispra"
+    ],
+    "belgio": [
+        "4.5",
+        "50.75",
+        "A",
+        "BE",
+        "Kingdom of Belgium"
+    ],
+    "maghreb": [
+        "5",
+        "30",
+        "L",
+        "None",
+        "Al Maghrib"
+    ],
+    "algeria": [
+        "3",
+        "28",
+        "A",
+        "DZ",
+        "People's Democratic Republic of Algeria"
+    ],
+    "nord africa": [
+        "9.97559",
+        "32.95337",
+        "L",
+        "None",
+        "Northern Africa"
+    ],
+    "levante": [
+        "36",
+        "34",
+        "L",
+        "None",
+        "Levant"
+    ],
+    "etiopia": [
+        "39.5",
+        "9",
+        "A",
+        "ET",
+        "Federal Democratic Republic of Ethiopia"
+    ],
+    "lagos": [
+        "3.39467",
+        "6.45407",
+        "P",
+        "NG",
+        "Lagos"
+    ],
+    "fiumicino": [
+        "12.23662",
+        "41.77093",
+        "P",
+        "IT",
+        "Fiumicino"
+    ],
+    "mare": [
+        "22.86255",
+        "47.79926",
+        "P",
+        "RO",
+        "Satu Mare"
+    ],
+    "alpe": [
+        "6.06986",
+        "45.09281",
+        "P",
+        "FR",
+        "L'Alpe-d'Huez"
+    ],
+    "bulgaria": [
+        "25.25",
+        "42.66667",
+        "A",
+        "BG",
+        "Republic of Bulgaria"
+    ],
+    "oborishte": [
+        "24.08333",
+        "42.51667",
+        "P",
+        "BG",
+        "Oborishte"
+    ],
+    "europa centrale": [
+        "12.46756",
+        "41.8283",
+        "L",
+        "IT",
+        "Parco Centrale del Lago"
+    ],
+    "polonia": [
+        "20",
+        "52",
+        "A",
+        "PL",
+        "Republic of Poland"
+    ],
+    "turchia": [
+        "35",
+        "39",
+        "A",
+        "TR",
+        "Republic of Turkey"
+    ],
+    "cipro": [
+        "33",
+        "35",
+        "A",
+        "CY",
+        "Republic of Cyprus"
+    ],
+    "europe": [
+        "15.1903",
+        "50.28762",
+        "L",
+        "None",
+        "Central Europe"
+    ],
+    "continent": [
+        "21.09375",
+        "7.1881",
+        "L",
+        "None",
+        "Africa"
+    ],
+    "la haye": [
+        "-1.39655",
+        "48.79561",
+        "P",
+        "FR",
+        "La Haye-Pesnel"
+    ],
+    "rome": [
+        "12.51133",
+        "41.89193",
+        "P",
+        "IT",
+        "Rome"
+    ],
+    "grande-bretagne": [
+        "-3.78172",
+        "47.9664",
+        "P",
+        "FR",
+        "La Grande Boissi\u00e8re"
+    ],
+    "the hague": [
+        "4.29861",
+        "52.07667",
+        "P",
+        "NL",
+        "The Hague"
+    ],
+    "great britain": [
+        "-2.69531",
+        "54.75844",
+        "A",
+        "GB",
+        "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "cambogia": [
+        "105",
+        "13",
+        "A",
+        "KH",
+        "Kingdom of Cambodia"
+    ],
+    "vientiane": [
+        "102.6",
+        "17.96667",
+        "P",
+        "LA",
+        "Vientiane"
+    ],
+    "nord vietnam": [
+        "105",
+        "22",
+        "L",
+        "VN",
+        "Tonkin"
+    ],
+    "italie": [
+        "12.83333",
+        "42.83333",
+        "A",
+        "IT",
+        "Italian Republic"
+    ],
+    "r.a.u.": [
+        "-2.69531",
+        "54.75844",
+        "A",
+        "GB",
+        "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "vienne": [
+        "16.37208",
+        "48.20849",
+        "P",
+        "AT",
+        "Vienna"
+    ],
+    "berlin": [
+        "13.41053",
+        "52.52437",
+        "P",
+        "DE",
+        "Berlin"
+    ],
+    "union sovi\u00e9tique": [
+        "98",
+        "60",
+        "A",
+        "None",
+        "Union of Soviet Socialist Republics"
+    ],
+    "pologne": [
+        "20",
+        "52",
+        "A",
+        "PL",
+        "Republic of Poland"
+    ],
+    "r\u00e9publique d\u00e9mocratique allemande": [
+        "12.51559",
+        "52.19498",
+        "A",
+        "DE",
+        "German Democratic Republic"
+    ],
+    "allemagne f\u00e9d\u00e9rale": [
+        "12.89786",
+        "50.88337",
+        "P",
+        "DE",
+        "Draisdorf"
+    ],
+    "europe centrale": [
+        "12.24145",
+        "42.83829",
+        "L",
+        "IT",
+        "Centro"
+    ],
+    "occident": [
+        "5.35272",
+        "44.18023",
+        "L",
+        "FR",
+        "Occident"
+    ],
+    "m\u00e9diterran\u00e9e": [
+        "0",
+        "43.5",
+        "L",
+        "FR",
+        "Gascogne"
+    ],
+    "moyen-orient": [
+        "35.85869",
+        "33.13906",
+        "L",
+        "None",
+        "Middle East"
+    ],
+    "russie": [
+        "100",
+        "60",
+        "A",
+        "RU",
+        "Russian Federation"
+    ],
+    "moscou": [
+        "37.61556",
+        "55.75222",
+        "P",
+        "RU",
+        "Moscow"
+    ],
+    "jordanie": [
+        "36",
+        "31",
+        "A",
+        "JO",
+        "Hashemite Kingdom of Jordan"
+    ],
+    "liban": [
+        "35.83333",
+        "33.83333",
+        "A",
+        "LB",
+        "Lebanon"
+    ],
+    "afrique du nord": [
+        "9.97559",
+        "32.95337",
+        "L",
+        "None",
+        "Northern Africa"
+    ],
+    "caire": [
+        "31.24967",
+        "30.06263",
+        "P",
+        "EG",
+        "Cairo"
+    ],
+    "isra\u00ebl": [
+        "34.75",
+        "31.5",
+        "A",
+        "IL",
+        "State of Israel"
+    ],
+    "egypte": [
+        "30",
+        "27",
+        "A",
+        "EG",
+        "Arab Republic of Egypt"
+    ],
+    "malte": [
+        "14.43333",
+        "35.91667",
+        "A",
+        "MT",
+        "Republic of Malta"
+    ],
+    "londres": [
+        "-0.12574",
+        "51.50853",
+        "P",
+        "GB",
+        "London"
+    ],
+    "yougoslavie": [
+        "19.75",
+        "44",
+        "A",
+        "YU",
+        "Federal Republic of Yugoslavia"
+    ],
+    "albanie": [
+        "20",
+        "41",
+        "A",
+        "AL",
+        "Republic of Albania"
+    ],
+    "nord europa": [
+        "2.90039",
+        "61.68987",
+        "L",
+        "None",
+        "Northern Europe"
+    ],
+    "somalia": [
+        "48",
+        "6",
+        "A",
+        "SO",
+        "Somalia"
+    ],
+    "\u00e9thiopie": [
+        "39.5",
+        "9",
+        "A",
+        "ET",
+        "Federal Democratic Republic of Ethiopia"
+    ],
+    "bengasi": [
+        "20.06859",
+        "32.11486",
+        "P",
+        "LY",
+        "Benghazi"
+    ],
+    "cirene": [
+        "21.86222",
+        "32.82778",
+        "P",
+        "LY",
+        "Cyrene"
+    ],
+    "misurata": [
+        "15.09254",
+        "32.37535",
+        "P",
+        "LY",
+        "Misratah"
+    ],
+    "barce": [
+        "-87.27668",
+        "40.62087",
+        "P",
+        "US",
+        "Barce"
+    ],
+    "tripolitania": [
+        "15",
+        "31",
+        "L",
+        "LY",
+        "Tripolitania"
+    ],
+    "cirenaica": [
+        "22.5",
+        "31",
+        "L",
+        "LY",
+        "Cyrenaica"
+    ],
+    "tunisie": [
+        "9",
+        "34",
+        "A",
+        "TN",
+        "Republic of Tunisia"
+    ],
+    "l\u00e9vant": [
+        "36",
+        "34",
+        "L",
+        "None",
+        "Levant"
+    ],
+    "midi": [
+        "1.5",
+        "43.75",
+        "A",
+        "FR",
+        "Midi-Pyr\u00e9n\u00e9es"
+    ],
+    "moyen orient": [
+        "35.85869",
+        "33.13906",
+        "L",
+        "None",
+        "Middle East"
+    ],
+    "costantinopoli": [
+        "28.94966",
+        "41.01384",
+        "P",
+        "TR",
+        "Istanbul"
+    ],
+    "magreb": [
+        "5",
+        "30",
+        "L",
+        "None",
+        "Al Maghrib"
+    ],
+    "kenia": [
+        "38",
+        "1",
+        "A",
+        "KE",
+        "Republic of Kenya"
+    ],
+    "iran": [
+        "53",
+        "32",
+        "A",
+        "IR",
+        "Islamic Republic of Iran"
+    ],
+    "tokio": [
+        "139.69171",
+        "35.6895",
+        "P",
+        "JP",
+        "Tokyo"
+    ],
+    "corsica": [
+        "8.9542",
+        "42.06153",
+        "A",
+        "FR",
+        "Corse"
+    ],
+    "finlandia": [
+        "26",
+        "64",
+        "A",
+        "FI",
+        "Republic of Finland"
+    ],
+    "am\u00e9rica": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "asia orientale": [
+        "114.60938",
+        "32.24997",
+        "L",
+        "None",
+        "Eastern Asia"
+    ],
+    "san francisco": [
+        "-122.41942",
+        "37.77493",
+        "P",
+        "US",
+        "San Francisco"
+    ],
+    "repubblica popolare cinese": [
+        "105",
+        "35",
+        "A",
+        "CN",
+        "People\u2019s Republic of China"
+    ],
+    "tlatelolco": [
+        "-99.14235",
+        "19.45315",
+        "P",
+        "MX",
+        "Tlatelolco"
+    ],
+    "buenos aires": [
+        "-58.37723",
+        "-34.61315",
+        "P",
+        "AR",
+        "Buenos Aires"
+    ],
+    "campidoglio": [
+        "7.64011",
+        "45.08327",
+        "A",
+        "IT",
+        "San Donato - Campidoglio - Parella"
+    ],
+    "togliattigrad": [
+        "49.3461",
+        "53.5303",
+        "P",
+        "RU",
+        "Tolyatti"
+    ],
+    "leningrado": [
+        "30.31413",
+        "59.93863",
+        "P",
+        "RU",
+        "Saint Petersburg"
+    ],
+    "taiwan": [
+        "121",
+        "24",
+        "A",
+        "TW",
+        "Taiwan"
+    ],
+    "india": [
+        "79",
+        "22",
+        "A",
+        "IN",
+        "Republic of India"
+    ],
+    "indonesia": [
+        "120",
+        "-5",
+        "A",
+        "ID",
+        "Republic of Indonesia"
+    ],
+    "thailandia": [
+        "101",
+        "15.5",
+        "A",
+        "TH",
+        "Kingdom of Thailand"
+    ],
+    "cina popolare": [
+        "105",
+        "35",
+        "A",
+        "CN",
+        "People\u2019s Republic of China"
+    ],
+    "est africa": [
+        "36.51855",
+        "-0.52734",
+        "L",
+        "None",
+        "Eastern Africa"
+    ],
+    "aqaba": [
+        "35.00778",
+        "29.52667",
+        "P",
+        "JO",
+        "Aqaba"
+    ],
+    "artico": [
+        "12.02944",
+        "45.42139",
+        "P",
+        "IT",
+        "Fiesso d'Artico"
+    ],
+    "egitto": [
+        "30",
+        "27",
+        "A",
+        "EG",
+        "Arab Republic of Egypt"
+    ],
+    "djakarta": [
+        "106.84513",
+        "-6.21462",
+        "P",
+        "ID",
+        "Jakarta"
+    ],
+    "sud-est": [
+        "28.63196",
+        "44.16509",
+        "L",
+        "RO",
+        "Sud-Est"
+    ],
+    "nuova zelanda": [
+        "174",
+        "-42",
+        "A",
+        "NZ",
+        "New Zealand"
+    ],
+    "repubblica italiana": [
+        "12.83333",
+        "42.83333",
+        "A",
+        "IT",
+        "Italian Republic"
+    ],
+    "r.p.c.": [
+        "98.88638",
+        "10.63756",
+        "A",
+        "TH",
+        "Cho Po Ro"
+    ],
+    "ciampino": [
+        "12.60158",
+        "41.80064",
+        "P",
+        "IT",
+        "Ciampino"
+    ],
+    "mare del nord": [
+        "10.91246",
+        "46.35356",
+        "P",
+        "IT",
+        "Mal\u00e8"
+    ],
+    "spagna": [
+        "-4",
+        "40",
+        "A",
+        "ES",
+        "Kingdom of Spain"
+    ],
+    "orientale": [
+        "114.60938",
+        "32.24997",
+        "L",
+        "None",
+        "Eastern Asia"
+    ],
+    "svizzera": [
+        "8.01427",
+        "47.00016",
+        "A",
+        "CH",
+        "Switzerland"
+    ],
+    "pacifico": [
+        "-79.59788",
+        "8.91522",
+        "P",
+        "PA",
+        "Panama Pacifico"
+    ],
+    "medellin": [
+        "-75.56359",
+        "6.25184",
+        "P",
+        "CO",
+        "Medell\u00edn"
+    ],
+    "colombia": [
+        "-73.25",
+        "4",
+        "A",
+        "CO",
+        "Republic of Colombia"
+    ],
+    "canale": [
+        "11.91429",
+        "46.35693",
+        "P",
+        "IT",
+        "Canale d'Agordo"
+    ],
+    "potsdam": [
+        "13.06566",
+        "52.39886",
+        "P",
+        "DE",
+        "Potsdam"
+    ],
+    "africa orientale": [
+        "36.51855",
+        "-0.52734",
+        "L",
+        "None",
+        "Eastern Africa"
+    ],
+    "yaound\u00e9": [
+        "11.51667",
+        "3.86667",
+        "P",
+        "CM",
+        "Yaound\u00e9"
+    ],
+    "danimarca": [
+        "10",
+        "56",
+        "A",
+        "DK",
+        "Kingdom of Denmark"
+    ],
+    "senegal": [
+        "-14.25",
+        "14.5",
+        "A",
+        "SN",
+        "Republic of Senegal"
+    ],
+    "africa occidentale": [
+        "-4.83398",
+        "18.31281",
+        "L",
+        "None",
+        "Western Africa"
+    ],
+    "cayor": [
+        "-16.25",
+        "15.25",
+        "L",
+        "SN",
+        "Cayor"
+    ],
+    "gor\u00e9e": [
+        "-17.39867",
+        "14.66757",
+        "P",
+        "SN",
+        "Gor\u00e9e"
+    ],
+    "rufisque": [
+        "-17.27334",
+        "14.71542",
+        "P",
+        "SN",
+        "Rufisque"
+    ],
+    "saint louis": [
+        "-90.19789",
+        "38.62727",
+        "P",
+        "US",
+        "St. Louis"
+    ],
+    "s\u00e9n\u00e9gal": [
+        "-14.25",
+        "14.5",
+        "A",
+        "SN",
+        "Republic of Senegal"
+    ],
+    "kossou": [
+        "-5.48095",
+        "7.00103",
+        "P",
+        "CI",
+        "Kossou"
+    ],
+    "ghana": [
+        "-1.2",
+        "8.1",
+        "A",
+        "GH",
+        "Republic of Ghana"
+    ],
+    "akosombo": [
+        "0.05",
+        "6.3",
+        "P",
+        "GH",
+        "Akosombo"
+    ],
+    "tema": [
+        "-0.01657",
+        "5.6698",
+        "P",
+        "GH",
+        "Tema"
+    ],
+    "repubblica democratica del congo": [
+        "23.5",
+        "-2.5",
+        "A",
+        "CD",
+        "Democratic Republic of the Congo"
+    ],
+    "congo": [
+        "15.5",
+        "-1",
+        "A",
+        "CG",
+        "Republic of the Congo"
+    ],
+    "centrale": [
+        "1.13333",
+        "8.98333",
+        "P",
+        "TG",
+        "Sokod\u00e9"
+    ],
+    "r\u00e9publique d\u00e9mocratique du congo": [
+        "23.5",
+        "-2.5",
+        "A",
+        "CD",
+        "Democratic Republic of the Congo"
+    ],
+    "inga": [
+        "24.00459",
+        "60.04587",
+        "P",
+        "FI",
+        "Ing\u00e5"
+    ],
+    "malaku": [
+        "127.84241",
+        "0.62621",
+        "A",
+        "ID",
+        "North Maluku"
+    ],
+    "capital": [
+        "-66.30606",
+        "9.99553",
+        "L",
+        "VE",
+        "Capital Region"
+    ],
+    "afrique occidentale": [
+        "-4.83398",
+        "18.31281",
+        "L",
+        "None",
+        "Western Africa"
+    ],
+    "afrique": [
+        "21.09375",
+        "7.1881",
+        "L",
+        "None",
+        "Africa"
+    ],
+    "svezia": [
+        "15",
+        "62",
+        "A",
+        "SE",
+        "Kingdom of Sweden"
+    ],
+    "islanda": [
+        "-18",
+        "65",
+        "A",
+        "IS",
+        "Iceland"
+    ],
+    "arusha": [
+        "36.68333",
+        "-3.36667",
+        "P",
+        "TZ",
+        "Arusha"
+    ],
+    "lisbonne": [
+        "-9.13333",
+        "38.71667",
+        "P",
+        "PT",
+        "Lisbon"
+    ],
+    "europe occidentale": [
+        "7.42676",
+        "50.21909",
+        "L",
+        "None",
+        "Western Europe"
+    ],
+    "am\u00e9rique du nord": [
+        "-100.54688",
+        "46.07323",
+        "L",
+        "None",
+        "North America"
+    ],
+    "asie": [
+        "89.29688",
+        "29.84064",
+        "L",
+        "None",
+        "Asia"
+    ],
+    "chine": [
+        "105",
+        "35",
+        "A",
+        "CN",
+        "People\u2019s Republic of China"
+    ],
+    "indochine": [
+        "107.5462",
+        "14.64504",
+        "A",
+        "KH",
+        "Indochine"
+    ],
+    "etats-unis": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "europe orientale": [
+        "28.38867",
+        "51.72703",
+        "L",
+        "None",
+        "Eastern Europe"
+    ],
+    "su\u00e8de": [
+        "15",
+        "62",
+        "A",
+        "SE",
+        "Kingdom of Sweden"
+    ],
+    "finlande": [
+        "26",
+        "64",
+        "A",
+        "FI",
+        "Republic of Finland"
+    ],
+    "suisse": [
+        "8.01427",
+        "47.00016",
+        "A",
+        "CH",
+        "Switzerland"
+    ],
+    "autriche": [
+        "13.33333",
+        "47.33333",
+        "A",
+        "AT",
+        "Republic of Austria"
+    ],
+    "espagne": [
+        "-4",
+        "40",
+        "A",
+        "ES",
+        "Kingdom of Spain"
+    ],
+    "islande": [
+        "-18",
+        "65",
+        "A",
+        "IS",
+        "Iceland"
+    ],
+    "alg\u00e9rie": [
+        "3",
+        "28",
+        "A",
+        "DZ",
+        "People's Democratic Republic of Algeria"
+    ],
+    "sicile": [
+        "14.25",
+        "37.75",
+        "A",
+        "IT",
+        "Sicilia"
+    ],
+    "confederazione svizzera": [
+        "8.01427",
+        "47.00016",
+        "A",
+        "CH",
+        "Switzerland"
+    ],
+    "norvegia": [
+        "10",
+        "62",
+        "A",
+        "NO",
+        "Kingdom of Norway"
+    ],
+    "mar rosso": [
+        "42.73944",
+        "13.00917",
+        "P",
+        "ER",
+        "Assab"
+    ],
+    "elath": [
+        "34.94821",
+        "29.55805",
+        "P",
+        "IL",
+        "Eilat"
+    ],
+    "zambia": [
+        "28.5",
+        "-14.33333",
+        "A",
+        "ZM",
+        "Republic of Zambia"
+    ],
+    "tanzania": [
+        "35",
+        "-6",
+        "A",
+        "TZ",
+        "United Republic of Tanzania"
+    ],
+    "volga": [
+        "43.93167",
+        "56.30668",
+        "L",
+        "RU",
+        "Volga"
+    ],
+    "levant": [
+        "36",
+        "34",
+        "L",
+        "None",
+        "Levant"
+    ],
+    "beyrouth": [
+        "35.50157",
+        "33.89332",
+        "P",
+        "LB",
+        "Beirut"
+    ],
+    "oceano indiano": [
+        "72",
+        "-6",
+        "A",
+        "IO",
+        "British Indian Ocean Territory"
+    ],
+    "oceano pacifico": [
+        "-113.98333",
+        "27",
+        "P",
+        "MX",
+        "Playa Oc\u00e9ano Pac\u00edfico"
+    ],
+    "canad\u00e0": [
+        "-113.64258",
+        "60.10867",
+        "A",
+        "CA",
+        "Canada"
+    ],
+    "repubblica democratica tedesca": [
+        "12.51559",
+        "52.19498",
+        "A",
+        "DE",
+        "German Democratic Republic"
+    ],
+    "islamabad": [
+        "73.04329",
+        "33.72148",
+        "P",
+        "PK",
+        "Islamabad"
+    ],
+    "citt\u00e0 santa": [
+        "12.4533",
+        "41.90225",
+        "A",
+        "VA",
+        "State of the Vatican City"
+    ],
+    "cisgiordania": [
+        "35.25",
+        "31.66667",
+        "A",
+        "PS",
+        "West Bank"
+    ],
+    "arabia saudita": [
+        "45",
+        "25",
+        "A",
+        "SA",
+        "Kingdom of Saudi Arabia"
+    ],
+    "golfo persico": [
+        "-38.41998",
+        "-12.96883",
+        "P",
+        "BR",
+        "Golfo P\u00e9rsico"
+    ],
+    "yemen": [
+        "47.5",
+        "15.5",
+        "A",
+        "YE",
+        "Republic of Yemen"
+    ],
+    "centro europa": [
+        "12.07853",
+        "42.69977",
+        "P",
+        "IT",
+        "Viale Europa"
+    ],
+    "zurigo": [
+        "8.55",
+        "47.36667",
+        "P",
+        "CH",
+        "Z\u00fcrich"
+    ],
+    "crimea": [
+        "34",
+        "45",
+        "L",
+        "UA",
+        "Crimea"
+    ],
+    "europa meridionale": [
+        "-3.33984",
+        "41.34382",
+        "L",
+        "None",
+        "Southern Europe"
+    ],
+    "uganda": [
+        "32.5",
+        "1.25",
+        "A",
+        "UG",
+        "Republic of Uganda"
+    ],
+    "malawi": [
+        "34",
+        "-13.5",
+        "A",
+        "MW",
+        "Republic of Malawi"
+    ],
+    "africa australe": [
+        "22.28027",
+        "-27.11781",
+        "L",
+        "None",
+        "Southern Africa"
+    ],
+    "oceania": [
+        "138.51562",
+        "-18.31281",
+        "L",
+        "None",
+        "Oceania"
+    ],
+    "bahrein": [
+        "50.55",
+        "26.03333",
+        "A",
+        "BH",
+        "Kingdom of Bahrain"
+    ],
+    "qatar": [
+        "51.25",
+        "25.5",
+        "A",
+        "QA",
+        "State of Qatar"
+    ],
+    "bhutan": [
+        "90.5",
+        "27.5",
+        "A",
+        "BT",
+        "Kingdom of Bhutan"
+    ],
+    "america del sud": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "bangkok": [
+        "100.50144",
+        "13.75398",
+        "P",
+        "TH",
+        "Bangkok"
+    ],
+    "monaco di baviera": [
+        "11.57549",
+        "48.13743",
+        "P",
+        "DE",
+        "Munich"
+    ],
+    "rodi": [
+        "15.88217",
+        "41.92745",
+        "P",
+        "IT",
+        "Rodi Garganico"
+    ],
+    "zaire": [
+        "13.51966",
+        "-6.58717",
+        "A",
+        "AO",
+        "Zaire"
+    ],
+    "camerun": [
+        "12.5",
+        "6",
+        "A",
+        "CM",
+        "Republic of Cameroon"
+    ],
+    "valletta": [
+        "14.5148",
+        "35.89968",
+        "P",
+        "MT",
+        "Valletta"
+    ],
+    "uruguay": [
+        "-56",
+        "-33",
+        "A",
+        "UY",
+        "Oriental Republic of Uruguay"
+    ],
+    "brasile": [
+        "-55",
+        "-10",
+        "A",
+        "BR",
+        "Federative Republic of Brazil"
+    ],
+    "madagascar": [
+        "47",
+        "-20",
+        "A",
+        "MG",
+        "Republic of Madagascar"
+    ],
+    "syrie": [
+        "38",
+        "35",
+        "A",
+        "SY",
+        "Syrian Arab Republic"
+    ],
+    "r\u00e9gion": [
+        "19.48591",
+        "57.29568",
+        "L",
+        "None",
+        "Baltic Region"
+    ],
+    "australie": [
+        "135",
+        "-25",
+        "A",
+        "AU",
+        "Commonwealth of Australia"
+    ],
+    "argentine": [
+        "-64",
+        "-34",
+        "A",
+        "AR",
+        "Argentine Republic"
+    ],
+    "br\u00e9sil": [
+        "-55",
+        "-10",
+        "A",
+        "BR",
+        "Federative Republic of Brazil"
+    ],
+    "pampa": [
+        "-66",
+        "-37",
+        "A",
+        "AR",
+        "La Pampa Province"
+    ],
+    "mendoza": [
+        "-68.5",
+        "-34.5",
+        "A",
+        "AR",
+        "Mendoza Province"
+    ],
+    "san juan": [
+        "-66.10572",
+        "18.46633",
+        "P",
+        "PR",
+        "San Juan"
+    ],
+    "rio negro": [
+        "-67",
+        "-40",
+        "A",
+        "AR",
+        "R\u00edo Negro Province"
+    ],
+    "villa regina": [
+        "-67.08374",
+        "-39.09631",
+        "P",
+        "AR",
+        "Villa Regina"
+    ],
+    "s\u00e3o paolo": [
+        "-46.63611",
+        "-23.5475",
+        "P",
+        "BR",
+        "S\u00e3o Paulo"
+    ],
+    "paran\u00e1": [
+        "-60.52897",
+        "-31.73271",
+        "P",
+        "AR",
+        "Paran\u00e1"
+    ],
+    "v\u00e9n\u00e9tie": [
+        "13",
+        "46",
+        "A",
+        "IT",
+        "Friuli Venezia Giulia"
+    ],
+    "lombardie": [
+        "9.18951",
+        "45.46427",
+        "P",
+        "IT",
+        "Milan"
+    ],
+    "pi\u00e9mont": [
+        "8",
+        "45",
+        "A",
+        "IT",
+        "Piemonte"
+    ],
+    "trentin": [
+        "11.33333",
+        "46.5",
+        "A",
+        "IT",
+        "Trentino-Alto Adige"
+    ],
+    "rio grande do sul": [
+        "-53.5",
+        "-30",
+        "A",
+        "BR",
+        "Rio Grande do Sul"
+    ],
+    "santa catarina": [
+        "-50",
+        "-27",
+        "A",
+        "BR",
+        "Santa Catarina"
+    ],
+    "matanzas": [
+        "-81.5775",
+        "23.04111",
+        "P",
+        "CU",
+        "Matanzas"
+    ],
+    "puerto cabello": [
+        "-68.0125",
+        "10.47306",
+        "P",
+        "VE",
+        "Puerto Cabello"
+    ],
+    "mexique": [
+        "-102",
+        "23",
+        "A",
+        "MX",
+        "Mexico"
+    ],
+    "chili": [
+        "-71",
+        "-30",
+        "A",
+        "CL",
+        "Republic of Chile"
+    ],
+    "californie": [
+        "-116.78467",
+        "34.68743",
+        "L",
+        "US",
+        "Southern California"
+    ],
+    "m\u00e9ridionale": [
+        "78.66211",
+        "21.28937",
+        "L",
+        "None",
+        "Southern Asia"
+    ],
+    "irlande": [
+        "-8",
+        "53",
+        "A",
+        "IE",
+        "Ireland"
+    ],
+    "allemagne": [
+        "10.5",
+        "51.5",
+        "A",
+        "DE",
+        "Federal Republic of Germany"
+    ],
+    "queensland": [
+        "145",
+        "-20",
+        "A",
+        "AU",
+        "State of Queensland"
+    ],
+    "australie occidentale": [
+        "115.8614",
+        "-31.95224",
+        "P",
+        "AU",
+        "Perth"
+    ],
+    "north america": [
+        "-100.54688",
+        "46.07323",
+        "L",
+        "None",
+        "North America"
+    ],
+    "australia": [
+        "135",
+        "-25",
+        "A",
+        "AU",
+        "Commonwealth of Australia"
+    ],
+    "kingdom of italy": [
+        "9.14804",
+        "45.19269",
+        "P",
+        "IT",
+        "Kingdom of the Lombards (historical political entitty)"
+    ],
+    "americas": [
+        "-86",
+        "21",
+        "L",
+        "None",
+        "Middle America"
+    ],
+    "atlantic": [
+        "-76.28807",
+        "40.58629",
+        "L",
+        "US",
+        "Mid-Atlantic"
+    ],
+    "brazil": [
+        "-55",
+        "-10",
+        "A",
+        "BR",
+        "Federative Republic of Brazil"
+    ],
+    "united states of america": [
+        "-98.5",
+        "39.76",
+        "A",
+        "US",
+        "United States"
+    ],
+    "italy": [
+        "12.83333",
+        "42.83333",
+        "A",
+        "IT",
+        "Italian Republic"
+    ],
+    "spain": [
+        "-4",
+        "40",
+        "A",
+        "ES",
+        "Kingdom of Spain"
+    ],
+    "s\u00e3o paulo": [
+        "-46.63611",
+        "-23.5475",
+        "P",
+        "BR",
+        "S\u00e3o Paulo"
+    ],
+    "minas gerais": [
+        "-43.93778",
+        "-19.92083",
+        "P",
+        "BR",
+        "Belo Horizonte"
+    ],
+    "lombardy": [
+        "9.18951",
+        "45.46427",
+        "P",
+        "IT",
+        "Milan"
+    ],
+    "piedmont": [
+        "7.68682",
+        "45.07049",
+        "P",
+        "IT",
+        "Turin"
+    ],
+    "trentino": [
+        "11.33333",
+        "46.5",
+        "A",
+        "IT",
+        "Trentino-Alto Adige"
+    ],
+    "republic": [
+        "12.51559",
+        "52.19498",
+        "A",
+        "DE",
+        "German Democratic Republic"
+    ],
+    "mexico": [
+        "-102",
+        "23",
+        "A",
+        "MX",
+        "Mexico"
+    ],
+    "chile": [
+        "-71",
+        "-30",
+        "A",
+        "CL",
+        "Republic of Chile"
+    ],
+    "united states": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "latin america": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "california": [
+        "-116.78467",
+        "34.68743",
+        "L",
+        "US",
+        "Southern California"
+    ],
+    "western europe": [
+        "7.42676",
+        "50.21909",
+        "L",
+        "None",
+        "Western Europe"
+    ],
+    "eastern": [
+        "114.60938",
+        "32.24997",
+        "L",
+        "None",
+        "Eastern Asia"
+    ],
+    "southern europe": [
+        "-3.33984",
+        "41.34382",
+        "L",
+        "None",
+        "Southern Europe"
+    ],
+    "ireland": [
+        "-8",
+        "53",
+        "A",
+        "IE",
+        "Ireland"
+    ],
+    "germany": [
+        "10.5",
+        "51.5",
+        "A",
+        "DE",
+        "Federal Republic of Germany"
+    ],
+    "western australia": [
+        "115.8614",
+        "-31.95224",
+        "P",
+        "AU",
+        "Perth"
+    ],
+    "am\u00e9rica latina": [
+        "-74.24633",
+        "4.57622",
+        "P",
+        "CO",
+        "Ciudad Latina"
+    ],
+    "am\u00e9rica del norte": [
+        "-100.54688",
+        "46.07323",
+        "L",
+        "None",
+        "North America"
+    ],
+    "reino de italia": [
+        "14.82347",
+        "41.29219",
+        "P",
+        "IT",
+        "Reino"
+    ],
+    "norteamerica": [
+        "-100.54688",
+        "46.07323",
+        "L",
+        "None",
+        "North America"
+    ],
+    "brasil": [
+        "-55",
+        "-10",
+        "A",
+        "BR",
+        "Federative Republic of Brazil"
+    ],
+    "estados unidos de am\u00e9rica": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "espa\u00f1a": [
+        "-4",
+        "40",
+        "A",
+        "ES",
+        "Kingdom of Spain"
+    ],
+    "piamonte": [
+        "7.68682",
+        "45.07049",
+        "P",
+        "IT",
+        "Turin"
+    ],
+    "m\u00e9xico": [
+        "-102",
+        "23",
+        "A",
+        "MX",
+        "Mexico"
+    ],
+    "estados unidos": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "europa septentrional": [
+        "2.90039",
+        "61.68987",
+        "L",
+        "None",
+        "Northern Europe"
+    ],
+    "europa oriental": [
+        "28.38867",
+        "51.72703",
+        "L",
+        "None",
+        "Eastern Europe"
+    ],
+    "meridional": [
+        "78.66211",
+        "21.28937",
+        "L",
+        "None",
+        "Southern Asia"
+    ],
+    "gran breta\u00f1a": [
+        "-76.57703",
+        "2.48783",
+        "P",
+        "CO",
+        "Gran Breta\u00f1a"
+    ],
+    "alemania": [
+        "10.5",
+        "51.5",
+        "A",
+        "DE",
+        "Federal Republic of Germany"
+    ],
+    "europa occidental": [
+        "7.42676",
+        "50.21909",
+        "L",
+        "None",
+        "Western Europe"
+    ],
+    "sudan": [
+        "30",
+        "16",
+        "A",
+        "SD",
+        "Republic of the Sudan"
+    ],
+    "nilo": [
+        "-74.6057",
+        "4.31345",
+        "A",
+        "CO",
+        "Nilo"
+    ],
+    "catanzaro": [
+        "16.60086",
+        "38.88247",
+        "P",
+        "IT",
+        "Catanzaro"
+    ],
+    "cosenza": [
+        "16.25307",
+        "39.2989",
+        "P",
+        "IT",
+        "Cosenza"
+    ],
+    "essa": [
+        "62.35534",
+        "25.33269",
+        "L",
+        "PK",
+        "Essa"
+    ],
+    "formia": [
+        "13.60888",
+        "41.25632",
+        "P",
+        "IT",
+        "Formia"
+    ],
+    "adelfia": [
+        "16.87208",
+        "41.0033",
+        "P",
+        "IT",
+        "Adelfia"
+    ],
+    "palese": [
+        "16.76667",
+        "41.15",
+        "P",
+        "IT",
+        "Palese"
+    ],
+    "regione": [
+        "43.5",
+        "3.38333",
+        "L",
+        "SO",
+        "Regione Anscio"
+    ],
+    "isola": [
+        "13.66194",
+        "45.53694",
+        "P",
+        "SI",
+        "Izola"
+    ],
+    "royaume-uni": [
+        "-2.69531",
+        "54.75844",
+        "A",
+        "GB",
+        "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "rhodesia": [
+        "29.75",
+        "-19",
+        "A",
+        "ZW",
+        "Republic of Zimbabwe"
+    ],
+    "nord-europa": [
+        "2.90039",
+        "61.68987",
+        "L",
+        "None",
+        "Northern Europe"
+    ],
+    "calabria": [
+        "15.66129",
+        "38.11047",
+        "P",
+        "IT",
+        "Reggio Calabria"
+    ],
+    "sud vietnam": [
+        "107",
+        "11",
+        "L",
+        "VN",
+        "Cochin China"
+    ],
+    "provincia": [
+        "37",
+        "-17",
+        "A",
+        "MZ",
+        "Prov\u00edncia de Zamb\u00e9zia"
+    ],
+    "san paolo": [
+        "-46.63611",
+        "-23.5475",
+        "P",
+        "BR",
+        "S\u00e3o Paulo"
+    ],
+    "fiera": [
+        "-62.48333",
+        "-24.05",
+        "L",
+        "AR",
+        "Balsa Fiera"
+    ],
+    "fiera del levante": [
+        "16.83878",
+        "41.13574",
+        "L",
+        "IT",
+        "Fiera del Levante"
+    ],
+    "paris": [
+        "2.3488",
+        "48.85341",
+        "P",
+        "FR",
+        "Paris"
+    ],
+    "france": [
+        "2",
+        "46",
+        "A",
+        "FR",
+        "Republic of France"
+    ],
+    "luxembourg": [
+        "6.16667",
+        "49.75",
+        "A",
+        "LU",
+        "Grand Duchy of Luxembourg"
+    ],
+    "grand-duch\u00e9": [
+        "6.16667",
+        "49.75",
+        "A",
+        "LU",
+        "Grand Duchy of Luxembourg"
+    ],
+    "new-york": [
+        "-74.00597",
+        "40.71427",
+        "P",
+        "US",
+        "New York City"
+    ],
+    "arabia-saudita": [
+        "45",
+        "25",
+        "A",
+        "SA",
+        "Kingdom of Saudi Arabia"
+    ],
+    "irak": [
+        "44",
+        "33",
+        "A",
+        "IQ",
+        "Republic of Iraq"
+    ],
+    "almelo": [
+        "6.6625",
+        "52.35667",
+        "P",
+        "NL",
+        "Almelo"
+    ],
+    "gedda": [
+        "39.18624",
+        "21.49012",
+        "P",
+        "SA",
+        "Jeddah"
+    ],
+    "citt\u00e0 di togliatti": [
+        "9.14936",
+        "45.57734",
+        "L",
+        "IT",
+        "Parco di Via Togliatti"
+    ],
+    "ryad": [
+        "46.72185",
+        "24.68773",
+        "P",
+        "SA",
+        "Riyadh"
+    ],
+    "abu dhabi": [
+        "54.39696",
+        "24.45118",
+        "P",
+        "AE",
+        "Abu Dhabi"
+    ],
+    "sinai": [
+        "33.7",
+        "30.5",
+        "A",
+        "EG",
+        "North Sinai"
+    ],
+    "alessandria": [
+        "8.61007",
+        "44.90924",
+        "P",
+        "IT",
+        "Alessandria"
+    ],
+    "santiago del cile": [
+        "-70.64827",
+        "-33.45694",
+        "P",
+        "CL",
+        "Santiago"
+    ],
+    "yaounde": [
+        "11.51667",
+        "3.86667",
+        "P",
+        "CM",
+        "Yaound\u00e9"
+    ],
+    "\u2019italia": [
+        "12.83333",
+        "42.83333",
+        "A",
+        "IT",
+        "Italian Republic"
+    ],
+    "bretagna": [
+        "-2.83333",
+        "48.16667",
+        "A",
+        "FR",
+        "Bretagne"
+    ],
+    "nicosia": [
+        "33.3642",
+        "35.17531",
+        "P",
+        "CY",
+        "Nicosia"
+    ],
+    "oman": [
+        "57",
+        "21",
+        "A",
+        "OM",
+        "Sultanate of Oman"
+    ],
+    "emirati arabi": [
+        "54.5",
+        "23.75",
+        "A",
+        "AE",
+        "United Arab Emirates"
+    ],
+    "portogallo": [
+        "-8.13057",
+        "39.6945",
+        "A",
+        "PT",
+        "Portuguese Republic"
+    ],
+    "asia del sud": [
+        "78.66211",
+        "21.28937",
+        "L",
+        "None",
+        "Southern Asia"
+    ],
+    "guinea bissau": [
+        "-15",
+        "12",
+        "A",
+        "GW",
+        "Republic of Guinea-Bissau"
+    ],
+    "lusaka": [
+        "28.28713",
+        "-15.40669",
+        "P",
+        "ZM",
+        "Lusaka"
+    ],
+    "mozambico": [
+        "35",
+        "-18.25",
+        "A",
+        "MZ",
+        "Republic of Mozambique"
+    ],
+    "bandung": [
+        "107.60694",
+        "-6.92222",
+        "P",
+        "ID",
+        "Bandung"
+    ],
+    "maddalena": [
+        "9.40833",
+        "41.21424",
+        "P",
+        "IT",
+        "La Maddalena"
+    ],
+    "darwin": [
+        "130.84185",
+        "-12.46113",
+        "P",
+        "AU",
+        "Darwin"
+    ],
+    "empoli": [
+        "10.94758",
+        "43.71795",
+        "P",
+        "IT",
+        "Empoli"
+    ],
+    "campania": [
+        "14.26811",
+        "40.85216",
+        "P",
+        "IT",
+        "Naples"
+    ],
+    "redipuglia": [
+        "13.48222",
+        "45.86556",
+        "P",
+        "IT",
+        "Fogliano"
+    ],
+    "puglie": [
+        "16.86982",
+        "41.12066",
+        "P",
+        "IT",
+        "Bari"
+    ],
+    "lom\u00e9": [
+        "1.22154",
+        "6.12874",
+        "P",
+        "TG",
+        "Lom\u00e9"
+    ],
+    "angola": [
+        "18.5",
+        "-12.5",
+        "A",
+        "AO",
+        "Republic of Angola"
+    ],
+    "aosta": [
+        "7.31722",
+        "45.73764",
+        "P",
+        "IT",
+        "Aosta"
+    ],
+    "cogne": [
+        "7.35803",
+        "45.60742",
+        "P",
+        "IT",
+        "Cogne"
+    ],
+    "osimo": [
+        "13.48222",
+        "43.48539",
+        "P",
+        "IT",
+        "Osimo"
+    ],
+    "vancouver": [
+        "-123.11934",
+        "49.24966",
+        "P",
+        "CA",
+        "Vancouver"
+    ],
+    "friuli": [
+        "13",
+        "46",
+        "A",
+        "IT",
+        "Friuli Venezia Giulia"
+    ],
+    "lucca": [
+        "10.50447",
+        "43.84369",
+        "P",
+        "IT",
+        "Lucca"
+    ],
+    "savona": [
+        "8.47715",
+        "44.30905",
+        "P",
+        "IT",
+        "Savona"
+    ],
+    "sezze": [
+        "13.06176",
+        "41.50032",
+        "P",
+        "IT",
+        "Sezze"
+    ],
+    "scozia": [
+        "-3.19648",
+        "55.95206",
+        "P",
+        "GB",
+        "Edinburgh"
+    ],
+    "galles": [
+        "-3.5",
+        "52.5",
+        "A",
+        "GB",
+        "Wales"
+    ],
+    "toritto": [
+        "16.67945",
+        "40.99774",
+        "P",
+        "IT",
+        "Toritto"
+    ],
+    "grosseto": [
+        "11.10941",
+        "42.76296",
+        "P",
+        "IT",
+        "Grosseto"
+    ],
+    "gravina": [
+        "16.41915",
+        "40.81748",
+        "P",
+        "IT",
+        "Gravina in Puglia"
+    ],
+    "gymnich": [
+        "6.74276",
+        "50.83769",
+        "P",
+        "DE",
+        "Gymnich"
+    ],
+    "vaiont": [
+        "12.69647",
+        "46.14534",
+        "P",
+        "IT",
+        "Vajont"
+    ],
+    "caracas": [
+        "-66.87919",
+        "10.48801",
+        "P",
+        "VE",
+        "Caracas"
+    ],
+    "mar nero": [
+        "34.29708",
+        "43.4131",
+        "A",
+        "None",
+        "Black Sea"
+    ],
+    "polignano a mare": [
+        "17.22149",
+        "40.99221",
+        "P",
+        "IT",
+        "Polignano a Mare"
+    ],
+    "molise": [
+        "14.5",
+        "41.66667",
+        "A",
+        "IT",
+        "Molise"
+    ],
+    "africa centrale": [
+        "24.69727",
+        "-2.02107",
+        "L",
+        "None",
+        "Central Africa"
+    ],
+    "america centrale": [
+        "-99.66797",
+        "25.32417",
+        "L",
+        "None",
+        "Central America"
+    ],
+    "terlizzi": [
+        "16.54536",
+        "41.12905",
+        "P",
+        "IT",
+        "Terlizzi"
+    ],
+    "sud africa": [
+        "24",
+        "-29",
+        "A",
+        "ZA",
+        "South Africa"
+    ],
+    "italia meridionale": [
+        "15.93279",
+        "40.40542",
+        "L",
+        "IT",
+        "Sud"
+    ],
+    "mai mefales": [
+        "38.2675",
+        "14.98667",
+        "P",
+        "ER",
+        "May-Mefals"
+    ],
+    "massaua": [
+        "39.47455",
+        "15.60811",
+        "P",
+        "ER",
+        "Massawa"
+    ],
+    "asmara": [
+        "38.93184",
+        "15.33805",
+        "P",
+        "ER",
+        "Asmara"
+    ],
+    "forte dei marmi": [
+        "10.17478",
+        "43.96388",
+        "P",
+        "IT",
+        "Forte dei Marmi"
+    ],
+    "ortisei": [
+        "11.67176",
+        "46.57603",
+        "P",
+        "IT",
+        "Ortisei"
+    ],
+    "terra": [
+        "0",
+        "0",
+        "L",
+        "None",
+        "Earth"
+    ],
+    "eritrea": [
+        "39",
+        "15",
+        "A",
+        "ER",
+        "State of Eritrea"
+    ],
+    "bardonecchia": [
+        "6.69888",
+        "45.07462",
+        "P",
+        "IT",
+        "Bardonecchia"
+    ],
+    "modane": [
+        "-73.54028",
+        "49.69611",
+        "A",
+        "CA",
+        "Lac Modane"
+    ],
+    "chiasso": [
+        "9.03119",
+        "45.83203",
+        "P",
+        "CH",
+        "Chiasso"
+    ],
+    "comune": [
+        "13.72944",
+        "45.54694",
+        "P",
+        "SI",
+        "Koper"
+    ],
+    "patria": [
+        "-58.51454",
+        "-27.22734",
+        "A",
+        "PY",
+        "Paso De Patria"
+    ],
+    "sud-america": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "ventimiglia": [
+        "7.60872",
+        "43.78956",
+        "P",
+        "IT",
+        "Ventimiglia"
+    ],
+    "domodossola": [
+        "8.29313",
+        "46.1165",
+        "P",
+        "IT",
+        "Domodossola"
+    ],
+    "citt\u00e0": [
+        "12.44639",
+        "43.93667",
+        "P",
+        "SM",
+        "San Marino"
+    ],
+    "chiaravalle": [
+        "13.32511",
+        "43.60114",
+        "P",
+        "IT",
+        "Chiaravalle"
+    ],
+    "america meridionale": [
+        "-57.65625",
+        "-14.60485",
+        "L",
+        "None",
+        "South America"
+    ],
+    "polesine": [
+        "-53.47291",
+        "-29.64559",
+        "A",
+        "BR",
+        "S\u00e3o Jo\u00e3o do Pol\u00easine"
+    ],
+    "reggio calabria": [
+        "15.66129",
+        "38.11047",
+        "P",
+        "IT",
+        "Reggio Calabria"
+    ],
+    "battipaglia": [
+        "14.98209",
+        "40.60861",
+        "P",
+        "IT",
+        "Battipaglia"
+    ],
+    "pescara": [
+        "14.20283",
+        "42.4584",
+        "P",
+        "IT",
+        "Pescara"
+    ],
+    "sulmona": [
+        "13.92578",
+        "42.04945",
+        "P",
+        "IT",
+        "Sulmona"
+    ],
+    "s. margherita": [
+        "14.66667",
+        "44.78333",
+        "A",
+        "HR",
+        "Luka Sveta Mara"
+    ],
+    "ferrara": [
+        "11.62057",
+        "44.83804",
+        "P",
+        "IT",
+        "Ferrara"
+    ],
+    "viareggio": [
+        "10.2502",
+        "43.86693",
+        "P",
+        "IT",
+        "Viareggio"
+    ],
+    "null": [
+        "7.54015",
+        "44.93645",
+        "P",
+        "IT",
+        "None"
+    ]
+}

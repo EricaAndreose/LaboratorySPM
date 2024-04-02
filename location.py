@@ -104,3 +104,53 @@ def get_coordinates(location):
             print("Invalid or unexpected API response format.")
             return None
 
+
+# print(get_coordinates('mar nero'))
+# print(get_coordinates('estremo oriente'))
+# print(get_coordinates('vaticana'))
+# print(get_coordinates('paesi in via di sviluppo'))
+# print(get_coordinates('luoghi santi'))
+# print(get_coordinates('mondo arabo'))
+
+def run_tests():
+    # Test with a valid location
+    print("Testing with a valid location...")
+    result = get_coordinates('New York')
+    if result:
+        print("Coordinates:", result)
+    else:
+        print("Error occurred or no data found for the location.")
+    
+    # Test with an invalid location
+    print("\nTesting with an invalid location...")
+    result = get_coordinates('paesi in via di sviluppo')
+    if result:
+        print("Coordinates:", result)
+    else:
+        print("Error occurred or no data found for the location.")
+    
+    # Test with a location already cached
+    print("\nTesting with a location already cached...")
+    # Simulate adding 'New York' to the cache
+    json_data = {'new york': ['longitude', 'latitude', 'address_type', 'countryCode', 'toponymName']}
+    with open('geonames_data.json', 'w') as json_file:
+        json.dump(json_data, json_file)
+    # Test if the cached data is returned
+    result = get_coordinates('New York')
+    if result:
+        print("Coordinates:", result)
+    else:
+        print("Error occurred or no data found for the location.")
+    
+    # Test with a location that resulted in an error previously
+    print("\nTesting with a location that resulted in an error previously...")
+    result = get_coordinates('paesi in via di sviluppo')
+    if result:
+        print("Coordinates:", result)
+    else:
+        print("Error occurred or no data found for the location.")
+
+if __name__ == "__main__":
+    run_tests()
+
+# print(run_tests)
